@@ -26,7 +26,6 @@ On iOS, you can restrict which activities can be shared to by using the AExclude
 * Flickr
 * Vimeo
 * Weibo
-* Tencent Weibo
 * AirDrop
 * IBooks
 * PDF
